@@ -25,8 +25,8 @@ This is a simple calculator app developed in Kotlin for Android. It supports bas
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/SVarunKumarDev/calculator.git
-cd calculator
+git clone https://github.com/SVarunKumarDev/Calculator-App.git
+cd Calculator-App
 ```
 
 ### 2. Open the project
